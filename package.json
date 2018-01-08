@@ -1,0 +1,14 @@
+{
+  "name": "react-native-sco-manager",
+  "version": "1.0.0",
+  "description": "bluetooth eco manager",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "damly<8051263@qq.com>",
+  "license": "MIT",
+  "dependencies": {
+    "prop-types": "^15.5.10"
+  }
+}
